@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "private": "true",
@@ -20,7 +20,9 @@
   "engines": {
     "node": ">=8"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
