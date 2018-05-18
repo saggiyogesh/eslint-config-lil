@@ -19,9 +19,7 @@
   "engines": {
     "node": ">=8"
   },
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js"],
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
@@ -31,6 +29,10 @@
     "prettier": "^1.12.1"
   },
   "peerDependencies": {
-    "eslint": ">=4.19.0"
+    "eslint": ">=4.19.0",
+    "eslint-config-prettier": ">=2.9.0",
+    "eslint-config-xo-space": ">=0.18.0",
+    "eslint-plugin-prettier": ">=2.6.0",
+    "prettier": ">=1.12.1"
   }
 }
