@@ -27,8 +27,8 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-xo-space": "^0.18.0",
     "eslint-plugin-prettier": "^2.6.0",
-    "nodemon": "^1.17.4",
-    "prettier": "^1.12.1"
+    "nodemon": "^1.17.5",
+    "prettier": "^1.13.4"
   },
   "peerDependencies": {
     "eslint": ">=4.19.0",
