@@ -1,6 +1,7 @@
 module.exports = {
   extends: ['xo-space/esnext', 'prettier'],
   plugins: ['prettier'],
+  parser: 'babel-eslint',
   rules: {
     'prettier/prettier': ['error'],
     'capitalized-comments': 'off',
